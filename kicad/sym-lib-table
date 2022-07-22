@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "Elektuur")(type "KiCad")(uri "${KIPRJMOD}/Elektuur.kicad_sym")(options "")(descr ""))
-)
