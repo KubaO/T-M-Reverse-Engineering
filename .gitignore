@@ -1,3 +1,8 @@
 # KiCad 6
 **/*-backups
 *.bak
+
+# MicroCap
+*.DDNO
+*.bak_cir
+*.inx
